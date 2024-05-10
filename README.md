@@ -1,5 +1,5 @@
-# KitchenSink Clicker
-This is the KitchenSink website. A fun waiting game, like [bullsquid.com](https://bullsquid.com/).
+# KitchenSink
+This is the KitchenSink website.
 
 Want to support me, while also getting a Discord role, BTS updates and other perks?<br>
 <br>
