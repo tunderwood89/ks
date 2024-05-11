@@ -7,40 +7,47 @@
   }
 .icon-centre {
   align-items: center
-  margin: 0 auto;
+  margin: 0px;
+}
+
+.container {
+   display: grid;
+   align-items: center; 
+   grid-template-columns: 46% 46% 2%;
+   column-gap: 5px;
 }
 
 .logo {
-  width: 128px;
-  height: 128px;
+  max-width: 90%;
+  max-height: 90%;
   border-radius: 50%;
 }
 
 .text {
-  font-size: 25px;
-  margin: 0;
-  padding: 0;
-  border: 0;
+  font-size: 28px;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-style: normal;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
-p, svg {
+svg {
   margin: 0;
   padding: 0;
   border: 0;
   }
 
 .bio {
-  font-size: 15px;
+  font-size: 18px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
+  line-height: 1.1;
   margin: 0;
   padding: 0;
   border: 0;
-  line-height: 1.1;
 }
 
 .line-space {
