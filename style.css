@@ -5,6 +5,10 @@
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
   }
+.icon-centre {
+  align-items: center
+  margin: 0 auto;
+}
 
 .logo {
   width: 128px;
@@ -36,6 +40,11 @@ p, svg {
   margin: 0;
   padding: 0;
   border: 0;
+  line-height: 1.1;
+}
+
+.line-space {
+  line-height: 0.8;
 }
 
 /*fonts*/
