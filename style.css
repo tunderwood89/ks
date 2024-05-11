@@ -6,12 +6,6 @@
     transform: translate(-50%, -50%);
   }
 
-.container {
- display: block;
- grid-template-columns: 1fr 1fr;
- column-gap: 20px;
-}
-
 .logo {
   width: 128px;
   height: 128px;
@@ -20,9 +14,15 @@
 
 .text {
   font-size: 25px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
-h1, p, svg {
+p, svg {
   margin: 0;
   padding: 0;
   border: 0;
