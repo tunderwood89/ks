@@ -1,3 +1,7 @@
+html {
+  align-items: center
+}
+
 .centre {
     position: absolute;
     left: 50%;
@@ -5,21 +9,15 @@
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
   }
-.icon-centre {
-  align-items: center
-  margin: 0px;
-}
 
-.container {
-   display: grid;
-   align-items: center; 
-   grid-template-columns: 46% 46% 2%;
-   column-gap: 5px;
+.icon-centre {
+  align-items: center;
+  margin: 0;
 }
 
 .logo {
-  max-width: 90%;
-  max-height: 90%;
+  max-width: 156px;
+  max-height: 156px;
   border-radius: 50%;
 }
 
