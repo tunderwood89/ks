@@ -2,5 +2,4 @@
 This is the KitchenSink website.
 
 Want to support me, while also getting a Discord role, BTS updates and other perks?<br>
-<br>
-<a href="https://www.buymeacoffee.com/KitchenSink"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a sink&emoji=💧&slug=KitchenSink&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://patreon.com/sinking?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">Support me on Patreon!</a>
